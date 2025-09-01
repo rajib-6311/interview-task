@@ -6,7 +6,7 @@ const Navbar = () => {
 
   return (
     <nav className="relative z-20">
-      <div className="container mx-auto py-3 px-20 md:flex">
+      <div className="container mx-auto py-3 px-6 md:px-20 md:flex">
         <div className="flex items-center justify-between">
           {/* Logo */}
           <a href="#">
