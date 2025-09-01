@@ -88,7 +88,7 @@ const Navbar = () => {
 
           <div className="flex gap-5">
             <button className="text-white">Log in</button>
-            <button className="text-white bg-secondary py-2 px-2 rounded-lg">Sign Up</button>
+            <button className="text-white bg-secondary py-2 px-4 rounded-lg">Sign Up</button>
           </div>
         </div>
       </div>
