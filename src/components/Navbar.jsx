@@ -23,7 +23,7 @@ const Navbar = () => {
             <button
               onClick={() => setIsOpen(!isOpen)}
               type="button"
-              className="text-white dark:text-gray-200 focus:outline-none"
+              className="text-gray-200 dark:text-gray-200 focus:outline-none"
               aria-label="toggle menu"
             >
               {!isOpen ? (

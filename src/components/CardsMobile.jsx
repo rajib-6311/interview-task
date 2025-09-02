@@ -13,7 +13,7 @@ const CardsMobile = () => {
             <img className='w-[300px] -left-3 absolute z-35 bottom-0' src={card2} alt="" />
             <img className='w-[340px] absolute z-40 pl-35 bottom-0' src={card3}
              alt="" />
-            <img className='w-[1040px] left-26 absolute z-40 pl-20 bottom-0 ' src={card4} 
+            <img className='w-[1040px] left-25 absolute z-40 pl-20 bottom-0 ' src={card4} 
             alt="" />
             <img className='w-[1050px] left-38 absolute z-50 pl-20 bottom-0 ' src={card5} alt="" />
             </div>
